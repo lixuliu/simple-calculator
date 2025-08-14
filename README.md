@@ -9,7 +9,7 @@ A clean, modern calculator built with HTML, CSS, and JavaScript featuring **Mode
 **GitHub Sponsors** - Support ongoing development and new features  
 **Ko-fi** - Buy me a coffee to keep the code flowing ☕
 
-## Screenshot
+**🌐 Live Demo:** [https://lixuliu.github.io/simple-calculator/](https://lixuliu.github.io/simple-calculator/)
 
 ![Calculator Interface](image.png)
 
