@@ -2,6 +2,12 @@
 
 A clean, modern calculator built with HTML, CSS, and JavaScript featuring **Mode Shift** functionality.
 
+## Screenshot
+
+![Calculator Interface](image.png)
+
+*Modern calculator with glassmorphism design, mode toggle, and professional footer*
+
 ## Features
 
 - **Mode Shift**: Toggle between Standard and Scientific modes
@@ -81,6 +87,7 @@ simple-calculator/
 ├── index.html      # Main HTML structure with mode toggle
 ├── styles.css      # CSS styling, animations, and mode-specific styles
 ├── script.js       # JavaScript calculator logic and mode switching
+├── image.png       # Calculator screenshot
 └── README.md       # This file
 ```
 
@@ -90,5 +97,13 @@ simple-calculator/
 - **Square**: Enter 5, press x² → Result: 25
 - **Percent**: Enter 50, press % → Result: 0.5
 - **Inverse**: Enter 4, press 1/x → Result: 0.25
+
+## Design Features
+
+- **Glassmorphism**: Modern translucent design with backdrop blur
+- **Gradient Background**: Beautiful purple-to-blue gradient
+- **Responsive Grid**: Clean button layout with proper spacing
+- **Professional Footer**: Copyright attribution with clickable link
+- **Smooth Animations**: Hover effects and mode transitions
 
 Enjoy your calculations with both Standard and Scientific modes! 🧮✨
