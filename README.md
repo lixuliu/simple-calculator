@@ -6,7 +6,7 @@ A clean, modern calculator built with HTML, CSS, and JavaScript featuring **Mode
 
 ![Calculator Interface](image.png)
 
-*Modern calculator with glassmorphism design, mode toggle, and professional footer*
+_Modern calculator with glassmorphism design, mode toggle, and professional footer_
 
 ## Features
 
