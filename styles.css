@@ -9,9 +9,11 @@ body {
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   min-height: 100vh;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   padding: 20px;
+  position: relative;
 }
 
 .calculator {
@@ -26,6 +28,7 @@ body {
   min-height: 500px;
   display: flex;
   flex-direction: column;
+  margin-bottom: 60px;
 }
 
 .mode-toggle {
@@ -269,4 +272,52 @@ body {
     opacity: 1;
     transform: translateY(0);
   }
+}
+
+/* Footer styles */
+.footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+  padding: 15px;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 13px;
+  font-weight: 400;
+  background: rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+}
+
+.footer p {
+  margin: 0;
+  line-height: 1.4;
+}
+
+.footer a {
+  color: rgba(255, 255, 255, 0.9);
+  text-decoration: underline;
+  text-decoration-color: rgba(255, 255, 255, 0.4);
+  text-underline-offset: 3px;
+  transition: all 0.2s ease;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.footer a:hover {
+  color: #ffffff;
+  text-decoration-color: rgba(255, 255, 255, 0.8);
+  transform: translateY(-1px);
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+.footer a:focus {
+  outline: 2px solid rgba(255, 255, 255, 0.5);
+  outline-offset: 4px;
+  border-radius: 4px;
+  color: #ffffff;
+}
+
+.footer a:active {
+  transform: translateY(0);
 }
