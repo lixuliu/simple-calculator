@@ -2,6 +2,13 @@
 
 A clean, modern calculator built with HTML, CSS, and JavaScript featuring **Mode Shift** functionality.
 
+**Support the Project** If you find this calculator useful and would like to support its continued development, consider:
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ff69b4?style=for-the-badge&logo=github)](https://github.com/sponsors/lixuliu) [![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-ff5f5f?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/lixuliu)
+
+**GitHub Sponsors** - Support ongoing development and new features  
+**Ko-fi** - Buy me a coffee to keep the code flowing ☕
+
 ## Screenshot
 
 ![Calculator Interface](image.png)
