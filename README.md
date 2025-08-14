@@ -4,7 +4,7 @@ A clean, modern calculator built with HTML, CSS, and JavaScript featuring **Mode
 
 **Support the Project** If you find this calculator useful and would like to support its continued development, consider:
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ff69b4?style=for-the-badge&logo=github)](https://github.com/sponsors/lixuliu) [![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-ff5f5f?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/lixuliu)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ff69b4?style=for-the-badge&logo=github)](https://github.com/sponsors/lixuliu) [![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-ff5f5f?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/lixuliu) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 **GitHub Sponsors** - Support ongoing development and new features  
 **Ko-fi** - Buy me a coffee to keep the code flowing ☕
@@ -70,6 +70,17 @@ _Modern calculator with glassmorphism design, mode toggle, and professional foot
 2. Start calculating!
 3. Click MODE to access scientific functions
 
+## 📄 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+**What this means:**
+
+- ✅ **Anyone can use** your code for any purpose (commercial, personal, etc.)
+- ✅ **Anyone can modify** and distribute your code
+- ✅ **Anyone can sell** your code
+- 🔒 **They must credit you** by keeping the original copyright notice and license
+
 ## Browser Compatibility
 
 - Chrome (recommended)
@@ -95,6 +106,7 @@ simple-calculator/
 ├── styles.css      # CSS styling, animations, and mode-specific styles
 ├── script.js       # JavaScript calculator logic and mode switching
 ├── image.png       # Calculator screenshot
+├── LICENSE         # MIT License file
 └── README.md       # This file
 ```
 
